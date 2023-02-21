@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadzohair&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadzohair" /> </p>
 
-- 🔭 I’m currently working on [Techless (WiseOS](https://techless.com/)
+- 🔭 I’m currently working on [Techless (WiseOS)](https://techless.com/)
 
 - 🌱 I’m currently learning **SpringBoot, Hibernate, Microservices, Docker and much more**
 
