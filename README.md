@@ -1,21 +1,25 @@
+<img align="left" width="250" height="250" src="https://s3.amazonaws.com/muhammadzohair.com/portfolio/about_me/FoXz9C3w6A48bgU3xbMCJSPoj9WIKu.png">
 <h1 align="center">Hi 👋, I'm Muhammad Zohair</h1>
 <h3 align="center">I am a Senior Software Engineer with 5 years of experience specialising in Android Development using the latest architecture and design patterns in Java and Kotlin such as MVVM, MVP, MVI, Clean Architecture, Singleton, Factory, Builder Pattern and others. Alongside Android Development I have extensive hands on experience on Backend using Spring Core, Spring Boot, Hibernate, Tomcat, Wildfly, AWS EC2 and other technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadzohair&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadzohair" /> </p>
+## Languages
 
-- 🔭 I’m currently working on [Techless (WiseOS)](https://techless.com/)
+![Shield](https://img.shields.io/badge/Language-Kotlin-blue) ![Shield](https://img.shields.io/badge/Language-JAVA-brightgreen) ![Shield](https://img.shields.io/badge/Language-Go%20Lang-blue) ![Shield](https://img.shields.io/badge/Language-Markdown-bluevoilet)
 
-- 🌱 I’m currently learning **SpringBoot, Hibernate, Microservices, Docker and much more**
+## Frameworks
+![Shield](https://img.shields.io/badge/Framework-Android-green) ![Shield1](https://img.shields.io/badge/Framework-Spring%20Boot-green)
 
-- 👨‍💻 All of my projects are available at [http://muhammadzohair.com/](http://muhammadzohair.com/)
+- I’m currently working on [Techless (WiseOS)](https://techless.com/)
 
-- 💬 Ask me about **Android Native (Java & Kotlin) - Android Enterprises - AOSP & Lineage - MVVM - MVP - Room DB - Jetpack Compose - Unit Testing - Integration Testing - Kotlin Co routines**
+- These days I'm learning **SpringBoot, Hibernate, Microservices, Docker and much more**
 
-- 📫 How to reach me **zohair739@gmail.com**
+- All of my projects are available at [http://muhammadzohair.com/](http://muhammadzohair.com/)
+
+- Ask me about **Android Native (Java & Kotlin) - Android Enterprises - AOSP & Lineage - MVVM - MVP - Room DB - Jetpack Compose - Unit Testing - Integration Testing - Kotlin Co routines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zohair739/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zohair739/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zohair739/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zohair739/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/zohair739/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/zohair739/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/zohair739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/zohair739" height="30" width="40" /></a>
 </p>
