@@ -4,14 +4,14 @@
 <p align="center">A Senior Software Engineer with 5 years of experience specialising in Android Development using the latest architecture and design patterns in Java and Kotlin such as MVVM, MVP, MVI, Clean Architecture, Singleton, Factory, Builder Pattern and others. Alongside Android Development I have extensive hands on experience on Backend using Spring Core, Spring Boot, Hibernate, Tomcat, Wildfly, AWS EC2 and other technologies</p>
 
 </br>
-</br>
 
 ## Languages
 
 ![Shield](https://img.shields.io/badge/Language-Kotlin-blue) ![Shield](https://img.shields.io/badge/Language-JAVA-brightgreen) ![Shield](https://img.shields.io/badge/Language-Go%20Lang-blue) ![Shield](https://img.shields.io/badge/Language-Markdown-bluevoilet)
 
-</br>
+
 ## Frameworks
+
 ![Shield](https://img.shields.io/badge/Framework-Android-green) ![Shield1](https://img.shields.io/badge/Framework-Spring%20Boot-green)
 
 - I’m currently working on [Techless (WiseOS)](https://techless.com/)
