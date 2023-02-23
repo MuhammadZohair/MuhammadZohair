@@ -14,6 +14,10 @@
 
 ![Shield](https://img.shields.io/badge/Framework-Android-green) ![Shield1](https://img.shields.io/badge/Framework-Spring%20Boot-green)
 
+
+## What am I upto
+
+
 - I’m currently working on [Techless (WiseOS)](https://techless.com/)
 
 - These days I'm learning **SpringBoot, Hibernate, Microservices, Docker and much more**
@@ -21,7 +25,7 @@
 - All of my projects are available at [http://muhammadzohair.com/](http://muhammadzohair.com/)
 
 - Ask me about **Android Native (Java & Kotlin) - Android Enterprises - AOSP & Lineage - MVVM - MVP - Room DB - Jetpack Compose - Unit Testing - Integration Testing - Kotlin Co routines**
-</br>
+
 
 ## Connect with me 
 
@@ -30,7 +34,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/zohair739/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/zohair739/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/zohair739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/zohair739" height="30" width="40" /></a>
 </p>
-</br>
+
 
 ## Tools & Technologies
 
