@@ -5,6 +5,10 @@
 
 </br>
 
+## Achievement
+
+[![wakatime](https://wakatime.com/badge/user/5de5631b-b254-4618-8c7b-0d11a79990f1.svg)](https://wakatime.com/@5de5631b-b254-4618-8c7b-0d11a79990f1)
+
 ## Languages
 
 ![Shield](https://img.shields.io/badge/Language-Kotlin-blue) ![Shield](https://img.shields.io/badge/Language-JAVA-brightgreen) ![Shield](https://img.shields.io/badge/Language-Go%20Lang-blue) ![Shield](https://img.shields.io/badge/Language-Markdown-bluevoilet)
