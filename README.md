@@ -5,7 +5,7 @@
 
 </br>
 
-## Achievement
+## Achievements
 
 [![wakatime](https://wakatime.com/badge/user/5de5631b-b254-4618-8c7b-0d11a79990f1.svg)](https://wakatime.com/@5de5631b-b254-4618-8c7b-0d11a79990f1)
 
