@@ -1,5 +1,5 @@
 
-<img align="left" width="250" height="250" src="https://s3.amazonaws.com/muhammadzohair.com/portfolio/about_me/FoXz9C3w6A48bgU3xbMCJSPoj9WIKu.png">
+<img align="left" width="250" height="250" src="https://s3.amazonaws.com/muhammadzohair.com/portfolio/Images/AboutMe.png">
 <h1 align="center">Hello World 👋 </br>I'm Muhammad Zohair</h1>
 <p align="center">A Senior Software Engineer with 5 years of experience specialising in Android Development using the latest architecture and design patterns in Java and Kotlin such as MVVM, MVP, MVI, Clean Architecture, Singleton, Factory, Builder Pattern and others. Alongside Android Development I have extensive hands on experience on Backend using Spring Core, Spring Boot, Hibernate, Tomcat, Wildfly, AWS EC2 and other technologies</p>
 
